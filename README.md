@@ -4,6 +4,11 @@ A modern, highly customizable, responsive personal portfolio and landing page bu
 
 [TR (Türkçe) Açıklama için buraya tıklayın](#-nysscexpro-türkçe)
 
+## Tech Stack
+- PHP
+- JavaScript
+- CSS
+
 ---
 
 ## 🚀 Features
