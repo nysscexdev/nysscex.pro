@@ -1,0 +1,29 @@
+{
+  "name": "nysscex.pro",
+  "short_name": "nysscex.pro",
+  "icons": [
+    {
+      "src": "assets/js/icons/icon_64x64.7903c5.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/js/icons/icon_144x144.7903c5.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/js/icons/icon_512x512.7903c5.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f56565",
+  "lang": "en"
+}
