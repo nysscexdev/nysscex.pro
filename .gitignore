@@ -1,6 +1,3 @@
-# Yerel yapılandırma dosyası (gizli Discord webhook adresi içerir)
-config.php
-
 # Çevresel değişkenler
 .env
 
