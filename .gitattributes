@@ -1,9 +1,1 @@
-*.css linguist-detectable=true
-*.html linguist-detectable=true
-*.js linguist-detectable=true
-*.php linguist-detectable=true
-
-*.min.css linguist-vendored
-*.min.js linguist-vendored
-
-assets/vendor/* linguist-vendored
+*.css linguist-detectable=false
